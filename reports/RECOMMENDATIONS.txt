@@ -1,0 +1,2 @@
+1. Reduce energy waste during downtime by improving shutdown procedures and minimizing idle energy consumption.
+2. Avoid sustained operation above 95% line speed, as higher speeds significantly increase quality losses without proportional throughput gains.
